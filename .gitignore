@@ -12,6 +12,7 @@
 
 /[Ll]ibrary/[Aa]rtifacts/
 /[Ll]ibrary/[Pp]ackage[Cc]ache/
+/[Ll]ibrary/[Bb]ee/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
